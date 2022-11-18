@@ -6,6 +6,8 @@
     <h3 class="subtitle is-6 has-text-grey">
       Author: <a href="https://github.com/anteriovieira"> Antério Vieira </a>
     </h3>
+
+    <h1 class="text-3xl font-bold underline">Hello world!</h1>
   </section>
 </template>
 
